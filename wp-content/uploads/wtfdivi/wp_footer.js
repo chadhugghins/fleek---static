@@ -1,0 +1,1 @@
+jQuery('#footer-info').html("&copy; 2017");jQuery(function($){});
